@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: "./form-vue/"
+    baseUrl: "/form-vue/"
 }
