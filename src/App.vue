@@ -9,7 +9,7 @@
         class="form-input"
         placeholder="type something...">
       </textarea>
-
+    {{console.log(process.env.ROOT_API)}}
       <div
         class="max-length"
         v-bind:class="{ 'too-long': tooLong }">
