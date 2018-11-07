@@ -68,7 +68,7 @@ export default {
     }
   },
   mounted() {
-  console.log(process.env.ROOT_API)
+  console.log(process.env)
 },
   methods: {
     publish(e) {
