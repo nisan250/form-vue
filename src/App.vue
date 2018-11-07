@@ -50,7 +50,7 @@ export default {
     return {
       currentStatus: {
         author: "@nisan",
-        avatar: require("./assets/logo.png"),
+        avatar: require("/assets/logo.png"),
         private: false,
         text: ""
       },
